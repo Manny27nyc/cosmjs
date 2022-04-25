@@ -3,7 +3,7 @@
 # This file will be outdated very soon, but should work as a template for your custom docker setup.
 
 # Coose from https://hub.docker.com/_/node/
-FROM node:12.18.3-alpine
+FROM node:12.22.12-alpine
 
 RUN yarn global add @cosmjs/faucet@0.23.0
 
