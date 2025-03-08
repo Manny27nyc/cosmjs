@@ -49,7 +49,7 @@
     "cosmjs-types": "^0.1.0",
     "long": "^4.0.0",
     "pako": "^2.0.2",
-    "protobufjs": "~6.10.2"
+    "protobufjs": "~7.4.0"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
@@ -82,7 +82,7 @@
     "nyc": "^15.1.0",
     "prettier": "^2.0.5",
     "readonly-date": "^1.0.0",
-    "ses": "^0.11.0",
+    "ses": "^1.11.0",
     "source-map-support": "^0.5.19",
     "stream-browserify": "^3.0.0",
     "ts-node": "^8",

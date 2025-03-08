@@ -39,7 +39,7 @@
     "pack-web": "yarn build-or-skip && webpack --mode development --config webpack.web.config.js"
   },
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^1.8.2"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
@@ -69,7 +69,7 @@
     "karma-jasmine-html-reporter": "^1.5.4",
     "nyc": "^15.1.0",
     "prettier": "^2.0.5",
-    "ses": "^0.11.0",
+    "ses": "^1.11.0",
     "source-map-support": "^0.5.19",
     "ts-node": "^8",
     "typedoc": "^0.20",

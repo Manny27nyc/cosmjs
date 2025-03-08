@@ -43,7 +43,7 @@
     "@cosmjs/math": "workspace:packages/math",
     "cosmjs-types": "^0.1.0",
     "long": "^4.0.0",
-    "protobufjs": "~6.10.2"
+    "protobufjs": "~7.4.0"
   },
   "devDependencies": {
     "@cosmjs/encoding": "workspace:packages/encoding",
@@ -76,7 +76,7 @@
     "karma-jasmine-html-reporter": "^1.5.4",
     "nyc": "^15.1.0",
     "prettier": "^2.0.5",
-    "ses": "^0.11.0",
+    "ses": "^1.11.0",
     "source-map-support": "^0.5.19",
     "stream-browserify": "^3.0.0",
     "ts-node": "^8",
