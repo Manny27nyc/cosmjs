@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { pathToString } from "@cosmjs/crypto";
 import { makeCosmoshubPath, Secp256k1HdWallet, SigningCosmosClient } from "@cosmjs/launchpad";
 import { DirectSecp256k1HdWallet, isOfflineDirectSigner, OfflineSigner } from "@cosmjs/proto-signing";

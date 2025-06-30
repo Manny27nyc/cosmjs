@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toHex } from "@cosmjs/encoding";
 import { Uint53 } from "@cosmjs/math";
 

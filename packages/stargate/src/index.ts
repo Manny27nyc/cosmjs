@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { StdFee } from "@cosmjs/amino";
 export { Coin, coin, coins, makeCosmoshubPath, parseCoins } from "@cosmjs/proto-signing";
 

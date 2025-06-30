@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { coin, coins, makeCosmoshubPath, Secp256k1HdWallet } from "@cosmjs/amino";
 import { assert } from "@cosmjs/utils";

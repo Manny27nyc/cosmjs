@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { fromAscii, toAscii } from "./ascii";
 export { fromBase64, toBase64 } from "./base64";
 export { Bech32 } from "./bech32";

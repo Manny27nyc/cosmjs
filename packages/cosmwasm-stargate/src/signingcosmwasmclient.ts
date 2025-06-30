@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { encodeSecp256k1Pubkey, makeSignDoc as makeSignDocAmino } from "@cosmjs/amino";
 import { isValidBuilder } from "@cosmjs/cosmwasm-launchpad";

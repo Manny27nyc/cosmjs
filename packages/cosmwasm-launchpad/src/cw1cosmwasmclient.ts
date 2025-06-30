@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { Account, BroadcastMode, GasLimits, GasPrice, OfflineSigner } from "@cosmjs/launchpad";
 

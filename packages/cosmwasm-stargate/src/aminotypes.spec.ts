@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { fromBase64, toUtf8 } from "@cosmjs/encoding";
 import { AminoTypes, coins } from "@cosmjs/stargate";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FaucetClient } from "./faucetclient";
 
 function pendingWithoutFaucet(): void {

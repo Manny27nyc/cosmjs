@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { assert } from "@cosmjs/utils";
 
 import { findSequenceForSignedTx } from "./sequence";

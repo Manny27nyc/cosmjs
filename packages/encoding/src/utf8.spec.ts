@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromUtf8, toUtf8 } from "./utf8";
 
 describe("utf8", () => {

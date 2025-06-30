@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromHex, toHex } from "@cosmjs/encoding";
 import BN from "bn.js";
 import elliptic from "elliptic";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //
 // Standard modules (see tracking issue https://github.com/cosmos/cosmjs/issues/276)
 //

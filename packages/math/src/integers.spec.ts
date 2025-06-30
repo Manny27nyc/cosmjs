@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Int53, Uint32, Uint53, Uint64 } from "./integers";
 
 describe("Integers", () => {

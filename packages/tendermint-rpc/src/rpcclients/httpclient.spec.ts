@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createJsonRpcRequest } from "../jsonrpc";
 import { defaultInstance } from "../testutil.spec";
 import { HttpClient } from "./httpclient";

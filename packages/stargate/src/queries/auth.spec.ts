@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { encodePubkey } from "@cosmjs/proto-signing";
 import { Tendermint34Client } from "@cosmjs/tendermint-rpc";

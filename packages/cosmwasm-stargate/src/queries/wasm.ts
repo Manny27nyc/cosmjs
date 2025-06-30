@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { JsonObject } from "@cosmjs/cosmwasm-launchpad";
 import { fromUtf8, toAscii } from "@cosmjs/encoding";

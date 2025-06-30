@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable no-dupe-class-members, @typescript-eslint/ban-types, @typescript-eslint/naming-convention */
 import { assert, isNonNullObject } from "@cosmjs/utils";
 import axios, { AxiosError, AxiosInstance } from "axios";

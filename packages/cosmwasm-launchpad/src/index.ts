@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { isValidBuilder } from "./builder";
 export { Expiration } from "./interfaces";
 export { setupWasmExtension, WasmExtension } from "./lcdapi/wasm";

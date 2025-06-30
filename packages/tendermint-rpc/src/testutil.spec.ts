@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toAscii } from "@cosmjs/encoding";
 import { sleep } from "@cosmjs/utils";
 

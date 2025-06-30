@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as bech32 from "bech32";
 
 export class Bech32 {

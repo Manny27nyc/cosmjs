@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { decodeBech32Pubkey } from "./encoding";
 import { MultisigThresholdPubkey } from "./pubkeys";
 

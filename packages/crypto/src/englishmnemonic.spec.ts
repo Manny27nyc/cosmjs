@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromAscii, fromBase64, fromHex } from "@cosmjs/encoding";
 
 import { EnglishMnemonic } from "./englishmnemonic";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { decodeBech32Pubkey, Pubkey } from "@cosmjs/amino";
 import { Uint64 } from "@cosmjs/math";
 

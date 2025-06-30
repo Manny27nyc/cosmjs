@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import RIPEMD160 from "ripemd160";
 
 import { HashFunction } from "./hash";

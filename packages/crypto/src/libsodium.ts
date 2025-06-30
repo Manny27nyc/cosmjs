@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Keep all classes requiring libsodium-js in one file as having multiple
 // requiring of the libsodium-wrappers module currently crashes browsers
 //

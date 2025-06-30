@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { coins, makeSignDoc, Secp256k1HdWallet } from "@cosmjs/amino";
 import { sleep } from "@cosmjs/utils";

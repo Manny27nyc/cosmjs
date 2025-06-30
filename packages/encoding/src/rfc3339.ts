@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ReadonlyDate } from "readonly-date";
 
 const rfc3339Matcher =

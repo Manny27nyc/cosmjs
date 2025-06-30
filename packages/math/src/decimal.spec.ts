@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Decimal } from "./decimal";
 import { Uint32, Uint53, Uint64 } from "./integers";
 

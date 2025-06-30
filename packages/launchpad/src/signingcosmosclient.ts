@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { AminoMsg, Coin, makeSignDoc, OfflineAminoSigner, StdFee } from "@cosmjs/amino";
 import equals from "fast-deep-equal";

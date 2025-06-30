@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Decimal } from "@cosmjs/math";
 
 import { calculateFee, GasPrice } from "./fee";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LcdClient, Secp256k1HdWallet, StdFee } from "@cosmjs/launchpad";
 
 const defaultHttpUrl = "http://localhost:1317";

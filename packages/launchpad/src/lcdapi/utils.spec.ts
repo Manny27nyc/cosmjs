@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Pubkey } from "@cosmjs/amino";
 
 import { normalizePubkey, uint64ToNumber, uint64ToString } from "./utils";

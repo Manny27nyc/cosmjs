@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { HashFunction } from "./hash";
 
 export class Hmac<H extends HashFunction> implements HashFunction {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isJsonCompatibleArray, isJsonCompatibleDictionary, isJsonCompatibleValue } from "./compatibility";
 
 describe("json", () => {

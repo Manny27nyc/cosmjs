@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Coin, Pubkey } from "@cosmjs/amino";
 import { sha256 } from "@cosmjs/crypto";
 import { fromBase64, fromHex, toHex } from "@cosmjs/encoding";

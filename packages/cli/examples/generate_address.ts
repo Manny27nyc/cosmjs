@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { encodeSecp256k1Pubkey, Secp256k1HdWallet } from "@cosmjs/amino";
 import { Bip39, Random } from "@cosmjs/crypto";
 

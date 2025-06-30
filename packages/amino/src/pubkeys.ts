@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export interface Pubkey {
   // type is one of the strings defined in pubkeyType
   // I don't use a string literal union here as that makes trouble with json test data:

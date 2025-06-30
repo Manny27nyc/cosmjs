@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromRfc3339 } from "@cosmjs/encoding";
 import { Uint32 } from "@cosmjs/math";
 import { ReadonlyDate } from "readonly-date";

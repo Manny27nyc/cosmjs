@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toUtf8 } from "@cosmjs/encoding";
 import { Int53 } from "@cosmjs/math";
 

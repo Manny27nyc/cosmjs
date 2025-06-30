@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isUint8Array } from "@cosmjs/utils";
 
 import { Random } from "./random";

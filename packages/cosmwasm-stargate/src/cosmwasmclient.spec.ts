@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { Code } from "@cosmjs/cosmwasm-launchpad";
 import { sha256 } from "@cosmjs/crypto";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 // Global symbols in both browsers and Node.js since v11
 // https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder

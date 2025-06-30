@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { generate, help, start, version } from "./actions";
 
 export function main(args: readonly string[]): void {

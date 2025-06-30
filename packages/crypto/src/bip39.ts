@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromHex, toHex } from "@cosmjs/encoding";
 import * as bip39 from "bip39";
 

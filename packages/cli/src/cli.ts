@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import axios from "axios";
 import * as fs from "fs";
 import { join } from "path";

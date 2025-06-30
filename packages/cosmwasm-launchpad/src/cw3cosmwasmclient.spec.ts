@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { makeCosmoshubPath, Secp256k1HdWallet } from "@cosmjs/launchpad";
 import { assert } from "@cosmjs/utils";

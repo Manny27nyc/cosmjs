@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env python3
 #pylint:disable=missing-docstring,invalid-name
 

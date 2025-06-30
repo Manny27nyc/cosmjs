@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { MsgSend } from "cosmjs-types/cosmos/bank/v1beta1/tx";
 import { Coin } from "cosmjs-types/cosmos/base/v1beta1/coin";

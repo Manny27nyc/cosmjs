@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as base64js from "base64-js";
 
 export function toBase64(data: Uint8Array): string {

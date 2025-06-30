@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import fs from "fs";
 
 export async function version(): Promise<void> {

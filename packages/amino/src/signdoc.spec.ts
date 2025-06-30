@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { Random } from "@cosmjs/crypto";
 import { Bech32 } from "@cosmjs/encoding";

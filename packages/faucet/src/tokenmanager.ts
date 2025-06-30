@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Coin } from "@cosmjs/launchpad";
 import { Decimal, Uint53 } from "@cosmjs/math";
 

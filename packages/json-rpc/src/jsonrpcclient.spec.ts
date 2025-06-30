@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /// <reference lib="dom" />
 
 import { Producer, Stream } from "xstream";

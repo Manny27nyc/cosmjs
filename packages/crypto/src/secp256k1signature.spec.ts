@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromHex } from "@cosmjs/encoding";
 
 import { ExtendedSecp256k1Signature, Secp256k1Signature } from "./secp256k1signature";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AminoMsg, StdFee, StdSignature, StdSignDoc } from "@cosmjs/amino";
 
 /**

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TokenConfiguration, TokenManager } from "./tokenmanager";
 import { MinimalAccount } from "./types";
 

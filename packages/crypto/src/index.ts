@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { Bip39 } from "./bip39";
 export { EnglishMnemonic } from "./englishmnemonic";
 export { HashFunction } from "./hash";

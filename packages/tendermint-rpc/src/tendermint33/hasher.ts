@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Sha256, sha256 } from "@cosmjs/crypto";
 
 import { encodeBlockId, encodeBytes, encodeInt, encodeString, encodeTime, encodeVersion } from "./encodings";

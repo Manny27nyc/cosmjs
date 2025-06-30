@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Listener, Producer, Stream } from "xstream";
 
 import { SocketWrapper, SocketWrapperMessageEvent } from "./socketwrapper";

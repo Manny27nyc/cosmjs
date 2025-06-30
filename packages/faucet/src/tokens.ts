@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const parseBankTokenPattern = /^([a-zA-Z]{2,20})$/;
 
 export function parseBankToken(input: string): string {

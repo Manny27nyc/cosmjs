@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Tendermint34Client } from "@cosmjs/tendermint-rpc";
 
 import {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Uint53 } from "@cosmjs/math";
 import { toListPromise } from "@cosmjs/stream";
 import { Stream } from "xstream";

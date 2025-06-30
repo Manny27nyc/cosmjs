@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { wrapInAsyncFunction } from "./async";
 
 describe("async", () => {

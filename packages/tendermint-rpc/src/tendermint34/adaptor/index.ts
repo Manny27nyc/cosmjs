@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { hashBlock, hashTx } from "../hasher";
 import { Params } from "./requests";
 import { Responses } from "./responses";

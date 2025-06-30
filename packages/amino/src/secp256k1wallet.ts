@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Secp256k1, Sha256 } from "@cosmjs/crypto";
 import { Bech32 } from "@cosmjs/encoding";
 

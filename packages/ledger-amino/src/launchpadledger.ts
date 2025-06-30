@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { makeCosmoshubPath } from "@cosmjs/amino";
 import { HdPath, Secp256k1Signature } from "@cosmjs/crypto";
 import { fromUtf8 } from "@cosmjs/encoding";

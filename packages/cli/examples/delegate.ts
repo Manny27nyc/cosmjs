@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { coin, coins, makeSignDoc, makeStdTx, CosmosClient, MsgDelegate, Secp256k1HdWallet } from "@cosmjs/launchpad";
 
 const wallet = await Secp256k1HdWallet.fromMnemonic(

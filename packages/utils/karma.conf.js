@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const chrome = require("karma-chrome-launcher");
 const firefox = require("karma-firefox-launcher");
 const jasmine = require("karma-jasmine");

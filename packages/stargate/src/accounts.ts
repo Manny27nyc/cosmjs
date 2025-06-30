@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Pubkey } from "@cosmjs/amino";
 import { Uint64 } from "@cosmjs/math";
 import { decodePubkey } from "@cosmjs/proto-signing";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { makeCosmoshubPath } from "@cosmjs/amino";
 import { DirectSecp256k1HdWallet } from "@cosmjs/proto-signing";
 import { assertIsBroadcastTxSuccess, SigningStargateClient } from "@cosmjs/stargate";

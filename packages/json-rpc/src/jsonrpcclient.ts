@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { firstEvent } from "@cosmjs/stream";
 import { Stream } from "xstream";
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { encodeBech32Pubkey } from "@cosmjs/amino";
 import { fromBase64 } from "@cosmjs/encoding";

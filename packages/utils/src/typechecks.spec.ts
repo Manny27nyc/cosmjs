@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isNonNullObject, isUint8Array } from "./typechecks";
 
 describe("typechecks", () => {

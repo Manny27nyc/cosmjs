@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { HdPath } from "@cosmjs/crypto";
 import { CosmWasmFeeTable, SigningCosmWasmClient } from "@cosmjs/cosmwasm-launchpad";
 import { GasPrice, GasLimits, makeCosmoshubPath, Secp256k1HdWallet } from "@cosmjs/launchpad";

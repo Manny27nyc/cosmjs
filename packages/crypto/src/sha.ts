@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Hash } from "crypto";
 import shajs from "sha.js";
 

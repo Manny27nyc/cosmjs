@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function toHex(data: Uint8Array): string {
   let out = "";
   for (const byte of data) {

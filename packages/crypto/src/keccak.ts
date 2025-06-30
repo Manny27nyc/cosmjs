@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import jssha3 from "js-sha3";
 
 import { HashFunction } from "./hash";

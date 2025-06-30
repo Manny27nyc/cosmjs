@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { encodeSecp256k1Signature, makeCosmoshubPath, rawSecp256k1PubkeyToRawAddress } from "@cosmjs/amino";
 import {
   Bip39,

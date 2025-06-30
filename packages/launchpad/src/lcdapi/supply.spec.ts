@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { launchpad, pendingWithoutLaunchpad } from "../testutils.spec";
 import { LcdClient } from "./lcdclient";
 import { setupSupplyExtension } from "./supply";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { QueryClientImpl } from "cosmjs-types/cosmos/auth/v1beta1/query";
 import { Any } from "cosmjs-types/google/protobuf/any";
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Note: all exports in this module are public available via
 // `import { tendermint33 } from "@cosmjs/tendermint-rpc"`
 

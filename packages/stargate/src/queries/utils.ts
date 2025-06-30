@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Bech32 } from "@cosmjs/encoding";
 import { PageRequest } from "cosmjs-types/cosmos/base/query/v1beta1/pagination";
 import Long from "long";

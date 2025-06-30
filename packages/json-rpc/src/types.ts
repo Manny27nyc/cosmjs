@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { JsonCompatibleArray, JsonCompatibleDictionary, JsonCompatibleValue } from "./compatibility";
 
 export type JsonRpcId = number | string;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function toAscii(input: string): Uint8Array {
   const toNums = (str: string): readonly number[] =>
     str.split("").map((x: string) => {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export class HttpError extends Error {
   public readonly status: number;
   public readonly expose: boolean;

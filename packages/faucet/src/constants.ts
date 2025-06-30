@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CosmosFeeTable, GasLimits, GasPrice } from "@cosmjs/launchpad";
 
 import { TokenConfiguration } from "./tokenmanager";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AccountData, makeCosmoshubPath, StdSignDoc } from "@cosmjs/amino";
 import { toBase64 } from "@cosmjs/encoding";
 import { Uint53 } from "@cosmjs/math";

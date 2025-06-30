@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Re-exports for backwards compatibility
 export {
   AccountData,

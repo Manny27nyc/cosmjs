@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { launchpad, nonNegativeIntegerMatcher, pendingWithoutLaunchpad } from "../testutils.spec";
 import { LcdClient } from "./lcdclient";

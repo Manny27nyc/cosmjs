@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { sha256 } from "@cosmjs/crypto";
 import { Bech32, fromAscii, fromHex, fromUtf8, toAscii, toBase64, toHex } from "@cosmjs/encoding";

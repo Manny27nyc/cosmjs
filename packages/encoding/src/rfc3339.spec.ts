@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromRfc3339, toRfc3339 } from "./rfc3339";
 
 describe("RFC3339", () => {

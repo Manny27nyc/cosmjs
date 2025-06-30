@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromBase64, toBase64 } from "./base64";
 
 describe("base64", () => {

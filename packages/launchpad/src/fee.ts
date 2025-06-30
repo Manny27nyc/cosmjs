@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { coins, StdFee } from "@cosmjs/amino";
 import { Decimal, Uint53 } from "@cosmjs/math";
 

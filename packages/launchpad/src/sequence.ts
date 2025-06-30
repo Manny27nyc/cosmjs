@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { decodeSignature, makeSignDoc, serializeSignDoc } from "@cosmjs/amino";
 import { Secp256k1, Secp256k1Signature, sha256 } from "@cosmjs/crypto";
 

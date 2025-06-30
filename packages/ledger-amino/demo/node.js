@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const demo = require("../build/demo/node");
 
 async function run() {

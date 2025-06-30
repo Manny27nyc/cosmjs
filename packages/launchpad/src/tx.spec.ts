@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { coins, StdFee, StdSignature } from "@cosmjs/amino";
 import { makeSignDoc } from "@cosmjs/amino/build/signdoc";

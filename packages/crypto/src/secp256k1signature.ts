@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function trimLeadingNullBytes(inData: Uint8Array): Uint8Array {
   let numberOfLeadingNullBytes = 0;
   for (const byte of inData) {

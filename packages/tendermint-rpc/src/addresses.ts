@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ripemd160, sha256 } from "@cosmjs/crypto";
 import { toHex } from "@cosmjs/encoding";
 

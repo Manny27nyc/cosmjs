@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { coin, coins, parseCoins } from "./coins";
 
 describe("coins", () => {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Coin } from "@cosmjs/amino";
 import { toBase64, toUtf8 } from "@cosmjs/encoding";
 

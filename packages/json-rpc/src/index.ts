@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { makeJsonRpcId } from "./id";
 export { JsonRpcClient, SimpleMessagingConnection } from "./jsonrpcclient";
 export {

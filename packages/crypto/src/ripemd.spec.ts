@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromHex } from "@cosmjs/encoding";
 
 import { Ripemd160, ripemd160 } from "./ripemd";

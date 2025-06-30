@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This type happens to be shared between Amino and Direct sign modes
 export { Coin, coin, coins, parseCoins } from "@cosmjs/amino";
 

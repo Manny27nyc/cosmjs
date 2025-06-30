@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Koa from "koa";
 import cors = require("@koa/cors");
 import bodyParser from "koa-bodyparser";

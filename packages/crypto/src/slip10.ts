@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromHex, toAscii } from "@cosmjs/encoding";
 import { Uint32, Uint53 } from "@cosmjs/math";
 import BN from "bn.js";

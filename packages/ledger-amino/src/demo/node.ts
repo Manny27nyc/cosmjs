@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { makeCosmoshubPath, makeSignDoc, StdFee, StdSignature } from "@cosmjs/amino";
 import { toBase64 } from "@cosmjs/encoding";

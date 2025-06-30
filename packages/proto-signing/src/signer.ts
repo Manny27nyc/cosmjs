@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { OfflineAminoSigner, StdSignature } from "@cosmjs/amino";
 import { SignDoc } from "cosmjs-types/cosmos/tx/v1beta1/tx";
 

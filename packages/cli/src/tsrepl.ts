@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { diffLines } from "diff";
 import { join } from "path";
 import { Recoverable, REPLServer, start } from "repl";

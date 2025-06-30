@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MultisigThresholdPubkey, pubkeyToAddress, StdFee } from "@cosmjs/amino";
 import { Bech32 } from "@cosmjs/encoding";
 import { encodePubkey } from "@cosmjs/proto-signing";

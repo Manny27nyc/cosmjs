@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { compareArrays, createMultisigThresholdPubkey } from "./multisig";
 import { test1, test2, test3, testgroup1, testgroup2, testgroup3, testgroup4 } from "./testutils.spec";
 

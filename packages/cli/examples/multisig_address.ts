@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MultisigThresholdPubkey, pubkeyToAddress } from "@cosmjs/amino";
 
 // https://github.com/cosmos/cosmjs/issues/673#issuecomment-779847238

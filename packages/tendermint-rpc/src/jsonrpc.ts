@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { JsonRpcRequest } from "@cosmjs/json-rpc";
 
 const numbersWithoutZero = "123456789";

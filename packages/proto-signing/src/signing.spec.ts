@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { fromBase64, fromHex, toHex } from "@cosmjs/encoding";
 import { SignMode } from "cosmjs-types/cosmos/tx/signing/v1beta1/signing";

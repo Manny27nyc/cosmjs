@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // A docker image regexp. We remove support for non-standard registries for simplicity.
 // https://docs.docker.com/engine/reference/commandline/tag/#extended-description
 //

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Uint53, Uint64 } from "@cosmjs/math";
 
 export interface Coin {

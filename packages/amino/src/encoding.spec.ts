@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Bech32, fromBase64 } from "@cosmjs/encoding";
 
 import {

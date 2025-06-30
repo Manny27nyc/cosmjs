@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { fromHex } from "@cosmjs/encoding";
 import { assert } from "@cosmjs/utils";

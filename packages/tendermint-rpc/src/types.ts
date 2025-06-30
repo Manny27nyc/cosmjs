@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Types in this file are exported outside of the @cosmjs/tendermint-rpc package,
 // e.g. as part of a request or response
 

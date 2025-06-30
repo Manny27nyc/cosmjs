@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Bech32, fromBase64, fromHex, toBase64, toHex } from "@cosmjs/encoding";
 import { Uint53 } from "@cosmjs/math";
 import { arrayContentStartsWith } from "@cosmjs/utils";

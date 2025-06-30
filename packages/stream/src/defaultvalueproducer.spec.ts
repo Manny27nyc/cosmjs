@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Stream } from "xstream";
 
 import { DefaultValueProducer } from "./defaultvalueproducer";

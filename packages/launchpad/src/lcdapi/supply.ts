@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Coin } from "@cosmjs/amino";
 
 import { LcdApiArray, LcdClient } from "./lcdclient";

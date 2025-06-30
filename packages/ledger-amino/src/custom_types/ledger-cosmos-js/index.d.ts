@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 declare module "ledger-cosmos-js" {
   import Transport from "@ledgerhq/hw-transport";
 

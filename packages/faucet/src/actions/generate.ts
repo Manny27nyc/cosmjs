@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Bip39, Random } from "@cosmjs/crypto";
 
 import * as constants from "../constants";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TSError } from "ts-node";
 import { Context, Script } from "vm";
 

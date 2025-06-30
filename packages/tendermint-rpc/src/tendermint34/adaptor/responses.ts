@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/naming-convention */
 import { fromBase64, fromHex } from "@cosmjs/encoding";
 import { JsonRpcSuccessResponse } from "@cosmjs/json-rpc";

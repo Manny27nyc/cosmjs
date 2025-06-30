@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Any } from "cosmjs-types/google/protobuf/any";
 
 import { accountFromAny } from "./accounts";

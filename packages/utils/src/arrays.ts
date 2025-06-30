@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Compares the content of two arrays-like objects for equality.
  *

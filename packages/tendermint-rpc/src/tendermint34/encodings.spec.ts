@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ReadonlyDate } from "readonly-date";
 
 import { encodeBlockId, encodeBytes, encodeInt, encodeString, encodeTime, encodeVersion } from "./encodings";
